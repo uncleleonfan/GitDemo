@@ -5,7 +5,8 @@
 
 * [Git中文教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * [Git常用命令](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
-### Git安装 ###
+
+## Git安装 ###
 
 ### Git常用命令 ###
 ![](img/git.png)
